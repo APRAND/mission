@@ -1,0 +1,3 @@
+[submodule "lib/NavPy"]
+	path = lib/NavPy
+	url = https://github.com/NavPy/NavPy.git
